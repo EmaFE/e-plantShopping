@@ -58,6 +58,13 @@ body {
     align-items: center;
     justify-content: center;
 }
+.product-category{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1.4rem;
+    margin-top: 1.6rem;
+}
 
 /* Product Card */
 .product-card {
